@@ -1,4 +1,12 @@
-# 👋 Hi, I'm Aryan  
+<div align="center">
+  
+# 👋Hello, my name is Aryan Thite. 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;DevOps+%26+Cloud+Enthusiast;Code+Create+Cloud)](https://git.io/typing-svg)
+
+</div>
+
+--- 
 
 💻 Aspiring **Software Engineer** | 🎓 B.Tech IT Student  
 🚀 Passionate about **AI, Cloud & DevOps**  
